@@ -14,6 +14,10 @@ redirect_from:
     My research interests are in crime, public, and applied economics. 
     <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me when I was attending Georgia College and State University.
   </p>
+
+  <p>
+    I expect to graduate from Florida State University in May 2028.
+  </p>
 </section>
 
 
