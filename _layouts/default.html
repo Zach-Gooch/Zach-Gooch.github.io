@@ -14,22 +14,8 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-    <!-- Custom Header -->
-    <header style="background-color: #f5f5f5; padding: 10px 20px;">
-      <div style="display: flex; align-items: flex-start; justify-content: space-between;">
-        <!-- Left: FSU Logo -->
-        <div style="flex-shrink: 0;">
-          <img src="/images/FSU Logo.png" alt="FSU Logo" style="height: 60px;">
-        </div>
-        <!-- Right: Navigation Links -->
-        <div style="flex-grow: 1; text-align: right;">
-          {% include masthead.html %}
-        </div>
-      </div>
-    </header>
-
-    <!-- Page Content -->
     {{ content }}
 
     <!-- Footer -->
