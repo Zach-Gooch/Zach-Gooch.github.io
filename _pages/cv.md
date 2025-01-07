@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 <section id="about-me">
-  <h1><a href="https://sites.google.com/view/colinadams/home?authuser=0" target="_blank">Colin Adams</a></h1>
   <p>
     113 Collegiate Loop <span style="float:right;">(404) 422-4977</span><br>
     Office 291B <span style="float:right;"><a href="mailto:ca23a@fsu.edu">ca23a@fsu.edu</a></span><br>
