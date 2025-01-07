@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 <section id="about-me">
-  <h2>About Me</h2>
   <p>
     I am a second-year Ph.D. student in economics at Florida State University. 
     Previously, I graduated from Georgia College and State University with a B.S. in Economics and a B.S. in Finance. 
