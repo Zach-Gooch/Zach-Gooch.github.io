@@ -20,13 +20,20 @@ layout: compress
       <div style="display: flex; align-items: center;">
         <!-- FSU Logo -->
         <img src="/images/FSU Logo.png" alt="FSU Logo" style="height: 50px; margin-right: 10px;">
-        <!-- Site Title (optional) -->
-        <h1 style="margin: 0; font-size: 1.5em;">Colin Adams</h1>
       </div>
       
       <!-- Navigation Links -->
       <nav>
-        {% include masthead.html %}
+        <ul style="list-style: none; margin: 0; padding: 0; display: flex; gap: 15px;">
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/" style="text-decoration: none; color: #007bff;">Home</a>
+          </li>
+          {% for link in site.data.navigation.main %}
+            <li class="masthead__menu-item">
+              <a href="{{ link.url | prepend: base_path }}" style="text-decoration: none; color: #007bff;">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
       </nav>
     </header>
 
@@ -44,4 +51,3 @@ layout: compress
 
   </body>
 </html>
-
