@@ -10,7 +10,7 @@ redirect_from:
 <section id="education">
   <h2>Education</h2>
   <p>
-    <a href="https://cosspp.fsu.edu/economics/phd-program/" target="_blank"><strong>Florida State University</strong></a><br>
+    <strong>Florida State University</strong><br>
     Ph.D., Economics <span style="float:right;">(Expected) 2028</span><br>
     M.S., Economics <span style="float:right;">2024</span>
   </p>
