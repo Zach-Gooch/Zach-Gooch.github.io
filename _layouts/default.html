@@ -15,16 +15,19 @@ layout: compress
 
     {% include browser-upgrade.html %}
 
-    <!-- Custom Header with FSU Logo -->
-    <header style="background-color: #f5f5f5; padding: 10px 20px;">
-      <div style="display: flex; align-items: center; justify-content: space-between;">
-        <!-- FSU Logo -->
-        <div style="display: flex; align-items: center;">
-          <img src="/images/FSU Logo.png" alt="FSU Logo" style="height: 50px; margin-right: 20px;">
-        </div>
-        <!-- Navigation -->
-        {% include masthead.html %}
+    <!-- Custom Header with FSU Logo and Navigation Links -->
+    <header style="display: flex; align-items: center; justify-content: space-between; padding: 10px 20px; background-color: #f5f5f5;">
+      <!-- FSU Logo -->
+      <div style="display: flex; align-items: center;">
+        <img src="/images/FSU Logo.png" alt="FSU Logo" style="height: 50px; margin-right: 20px;">
+        <!-- Optional Site Title -->
+        <span style="font-size: 1.5em; font-weight: bold; color: #333;">Colin Adams</span>
       </div>
+      
+      <!-- Navigation -->
+      <nav>
+        {% include masthead.html %}
+      </nav>
     </header>
 
     <!-- Page Content -->
