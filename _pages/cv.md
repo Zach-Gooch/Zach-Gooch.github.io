@@ -68,5 +68,4 @@ redirect_from:
     Dr. Carl Kitchens, Florida State University<br>
     Dr. Luke Rodgers, Florida State University
   </p>
-  <p><em>Last updated: January 7, 2025</em></p>
 </section>
