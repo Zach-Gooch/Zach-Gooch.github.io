@@ -7,14 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<section id="about-me">
-  <p>
-    113 Collegiate Loop <span style="float:right;">(404) 422-4977</span><br>
-    Office 291B <span style="float:right;"><a href="mailto:ca23a@fsu.edu">ca23a@fsu.edu</a></span><br>
-    Tallahassee, FL 32304 <span style="float:right;"><a href="https://www.linkedin.com/in/colin-p-adams/" target="_blank">LinkedIn</a></span>
-  </p>
-</section>
-
 <section id="education">
   <h2>Education</h2>
   <p>
