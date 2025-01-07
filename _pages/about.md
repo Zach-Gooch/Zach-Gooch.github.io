@@ -16,7 +16,7 @@ redirect_from:
   </p>
 
   <p>
-    I expect to graduate from Florida State University in May 2028.
+    I expect to graduate from Florida State University with my Ph.D. in economics in May 2028.
   </p>
 </section>
 
