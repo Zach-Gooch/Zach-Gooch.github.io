@@ -12,7 +12,7 @@ redirect_from:
     I am a second-year Ph.D. student in economics at Florida State University. 
     Previously, I graduated from Georgia College & State University with a B.S. in Economics and a B.S. in Finance. 
     My research interests are in crime, public, and applied economics. 
-    <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me when I was attending Georgia College and State University.
+    <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me from my time at Georgia College & State University.
   </p>
 
   <p>
