@@ -60,7 +60,6 @@ You can view a pdf of my CV <a href="/assets/CV.pdf" target="_blank">here</a>.
   <ul>
     <li>Charles and Persis Rockwood Fellowship, FSU <span style="float:right;">2023-Present</span></li>
     <li>Hayek Fund for Scholars, Institute for Humane Studies (IHS) <span style="float:right;">2023</span></li>
-    <li>J. Whitney Bunting Scholarship, GCSU <span style="float:right;">2022</span></li>
   </ul>
 </section>
 
