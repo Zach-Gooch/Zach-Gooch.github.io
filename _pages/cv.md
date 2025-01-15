@@ -17,7 +17,7 @@ A pdf of my CV is available <a href="/assets/CV.pdf" target="_blank">here</a>.
     M.S., Economics <span style="float:right;">2024</span>
   </p>
   <p>
-    <strong>Georgia College and State University</strong><br>
+    <strong>Georgia College & State University</strong><br>
     B.S., Economics <span style="float:right;">2023</span><br>
     B.S., Finance <span style="float:right;">2023</span>
   </p>
