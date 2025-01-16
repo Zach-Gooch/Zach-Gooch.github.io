@@ -27,7 +27,7 @@ $(document).ready(function(){
   // FitVids init
   fitvids();
 
-   // Change "Follow" text to "More"
+   // Change "Follow" text to "More". I ADDED THIS!
   $(".author__urls-wrapper button").text("More");
 
   // Follow menu drop down
