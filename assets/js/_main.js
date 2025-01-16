@@ -27,6 +27,9 @@ $(document).ready(function(){
   // FitVids init
   fitvids();
 
+   // Change "Follow" text to "More"
+  $(".author__urls-wrapper button").text("More");
+
   // Follow menu drop down
   $(".author__urls-wrapper button").on("click", function() {
     $(".author__urls").fadeToggle("fast", function() {});
