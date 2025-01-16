@@ -10,7 +10,7 @@ redirect_from:
 <section id="about-me">
   <p>
     I am a second-year Ph.D. student in economics and a Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
-    My research interests are in crime, public, and applied economics with a particular interest in the causes of recidivism in the US.
+    My research interests are in crime, public, and labor economics with a particular interest in the causes of recidivism in the US.
   </p>
 
   <p>
