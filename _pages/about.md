@@ -9,14 +9,13 @@ redirect_from:
 
 <section id="about-me">
   <p>
-    I am a second-year Ph.D. student in economics at Florida State University. 
-    Previously, I graduated from Georgia College & State University with a B.S. in Economics and a B.S. in Finance. 
+    I am a second-year Ph.D. student in economics at Florida State University. I expect to graduate from Florida State University with my Ph.D. in economics in May 2028.
     My research interests are in crime, public, and applied economics. 
-    <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me from my time at Georgia College & State University.
   </p>
 
   <p>
-    I expect to graduate from Florida State University with my Ph.D. in economics in May 2028.
+    Previously, I graduated from Georgia College & State University with a B.S. in Economics and a B.S. in Finance. 
+    <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me from my time at Georgia College & State University.
   </p>
 </section>
 
