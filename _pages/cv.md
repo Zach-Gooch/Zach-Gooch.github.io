@@ -66,8 +66,8 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 <section id="references">
   <h2>References</h2>
   <p>
-    <a href="https://sites.google.com/site/kitchct/" target="_blank">Dr. Carl Kitchens</a>, Florida State University<br>
-    <a href="https://sites.google.com/site/lukeprodgers/" target="_blank">Dr. Luke Rodgers</a>, Florida State University
+    <a href="https://sites.google.com/site/kitchct/" target="_blank">Dr. Carl Kitchens</a>, Professor of Economics at Florida State University<br>
+    <a href="https://sites.google.com/site/lukeprodgers/" target="_blank">Dr. Luke Rodgers</a>, Associate Professor of Economics at Florida State University
   </p>
 </section>
 
