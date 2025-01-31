@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A pdf of my CV is available <a href="/assets/CV.pdf" target="_blank">here</a>.
+A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
 <section id="education">
   <h2>Education</h2>
