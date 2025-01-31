@@ -28,7 +28,8 @@ author:
   location         : "Tallahassee, Florida"
   employer         : "Florida State University"
   uri              : # URL
-  email            : "ca23a@fsu.edu" 
+  email            : "ca23a@fsu.edu"
+  cv               : "/CV.pdf"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -59,7 +60,6 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/colin-p-adams/"
-  cv               : "/CV.pdf"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
