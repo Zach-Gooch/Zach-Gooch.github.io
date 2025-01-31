@@ -47,7 +47,7 @@ A pdf of my CV is available <a href="/assets/CV.pdf" target="_blank">here</a>.
 <section id="teaching-experience">
   <h2>Teaching Experience</h2>
   <ul>
-    <li>Ph.D. Microeconomic Theory I, Teaching Assistant <span style="float:right;">Spring, 2025</span></li>
+    <li>Ph.D. Microeconomic Theory II, Teaching Assistant <span style="float:right;">Spring, 2025</span></li>
     <li>Ph.D. Microeconomic Theory I, Teaching Assistant <span style="float:right;">Fall, 2024</span></li>
     <li>Ph.D. Math Camp, Teaching Assistant <span style="float:right;">Summer, 2024</span></li>
     <li>International Finance, Teaching Assistant <span style="float:right;">Spring, 2024</span></li>
