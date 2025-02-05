@@ -63,6 +63,22 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   </ul>
 </section>
 
+<section id ="presentations">
+    <h2>Conference and Seminar Presentations</h2>
+    <h3>2025</h3>
+    <ul>
+        <li>FSU Quantitative Economics Workshop Series</li>
+    </ul>
+    <h3>2023</h3>
+    <ul>
+        <li>Academy of Economics and Finance Annual Conference</li>
+    </ul>
+    <h3>2022</h3>
+    <ul>
+        <li>COBRA</li>
+    </ul>
+</section>
+
 <section id="references">
   <h2>References</h2>
   <p>
