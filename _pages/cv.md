@@ -44,16 +44,22 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   </ul>
 </section>
 
-<section id="teaching-experience">
-  <h2>Teaching Experience</h2>
-  <ul>
-    <li>Ph.D. Microeconomic Theory II, Teaching Assistant <span style="float:right;">Spring, 2025</span></li>
-    <li>Ph.D. Microeconomic Theory I, Teaching Assistant <span style="float:right;">Fall, 2024</span></li>
-    <li>Ph.D. Math Camp, Teaching Assistant <span style="float:right;">Summer, 2024</span></li>
-    <li>International Finance, Teaching Assistant <span style="float:right;">Spring, 2024</span></li>
-    <li>Business Organization and Market Structure, Teaching Assistant <span style="float:right;">Fall, 2023</span></li>
-  </ul>
+<section>
+    <h2>Teaching Experience</h2>
+    <h3>As the Instructor of Record</h3>
+    <ul>
+        <li>TBD <span style="float:right;">Summer, 2025</span></li>
+    </ul>
+    <h3>As a Teaching Assistant</h3>
+    <ul>
+        <li>Microeconomic Theory II (Ph.D.) <span style="float:right;">Spring, 2025</span></li>
+        <li>Microeconomic Theory I (Ph.D.) <span style="float:right;">Fall, 2024</span></li>
+        <li>Math Camp for First-Year Students (Ph.D.) <span style="float:right;">Summer, 2024</span></li>
+        <li>International Finance <span style="float:right;">Spring, 2024</span></li>
+        <li>Business Organization and Market Structure <span style="float:right;">Fall, 2023</span></li>
+    </ul>
 </section>
+
 
 <section id="honors">
   <h2>Honors, Scholarships, and Fellowships</h2>
