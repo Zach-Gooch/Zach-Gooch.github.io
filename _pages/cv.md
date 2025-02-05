@@ -18,8 +18,8 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   </p>
   <p>
     <strong>Georgia College & State University</strong><br>
-    B.S., Economics <span style="float:right;"> May, 2023</span><br>
-    B.S., Finance <span style="float:right;"> May, 2023</span>
+    B.S., Economics (<em>summa cum laude</em>) <span style="float:right;"> May, 2023</span><br>
+    B.S., Finance (<em>summa cum laude</em>) <span style="float:right;"> May, 2023</span>
   </p>
 </section>
 
