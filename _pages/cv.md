@@ -73,7 +73,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     <h2>Conference and Seminar Presentations</h2>
     <h3>2025</h3>
     <ul>
-        <li>FSU Quantitative Economics Workshop Series</li>
+        <li>FSU Quantitative Economics Workshop</li>
     </ul>
     <h3>2023</h3>
     <ul>
