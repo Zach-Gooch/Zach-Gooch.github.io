@@ -81,7 +81,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     </ul>
     <h3>2022</h3>
     <ul>
-        <li>COBRA</li>
+        <li>College of Business Research Assembly</li>
     </ul>
 </section>
 
