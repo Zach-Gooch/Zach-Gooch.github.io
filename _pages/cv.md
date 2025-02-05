@@ -13,13 +13,13 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <h2>Education</h2>
   <p>
     <strong>Florida State University</strong><br>
-    Ph.D., Economics <span style="float:right;">(Expected) 2028</span><br>
-    M.S., Economics <span style="float:right;">2024</span>
+    Ph.D., Economics <span style="float:right;">(Expected) May, 2028</span><br>
+    M.S., Economics <span style="float:right;"> December, 2024</span>
   </p>
   <p>
     <strong>Georgia College & State University</strong><br>
-    B.S., Economics <span style="float:right;">2023</span><br>
-    B.S., Finance <span style="float:right;">2023</span>
+    B.S., Economics <span style="float:right;"> May, 2023</span><br>
+    B.S., Finance <span style="float:right;"> May, 2023</span>
   </p>
 </section>
 
