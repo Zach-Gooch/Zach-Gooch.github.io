@@ -63,13 +63,13 @@
   @include breakpoint($large) {
     position: relative;
     float: right;
-    width: 280px; /* Increase sidebar width for medium screens */
+    width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
     z-index: 10;
   }
 
   @include breakpoint($x-large) {
-    width: 300px; /* Wider for larger screens */
+    width: $right-sidebar-width;
   }
 }
 
