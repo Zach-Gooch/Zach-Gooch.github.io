@@ -494,40 +494,4 @@
     color: #FFFFFF !important; /* Keep text white even on hover */
 }
 
-/* Making the profile image larger on mobile home screen only */
-
-/* Full-width profile picture for the Home Page on mobile */
-@media screen and (max-width: 768px) {
-  .home-avatar img {
-    width: 100% !important;       /* Full-width image */
-    height: auto !important;      /* Maintain aspect ratio */
-    border-radius: 0 !important;  /* Remove rounded corners for a clean look */
-  }
-
-  /* Center name, title, and links button */
-  .home-content, 
-  .home-links {
-    text-align: center;           /* Center-align content */
-    padding: 10px 0;
-  }
-
-  .home-content .author__name {
-    font-size: 1.5rem;            /* Larger font for the name */
-    font-weight: bold;
-  }
-
-  .home-content .author__bio {
-    font-size: 1rem;              /* Adjust font size for bio */
-    margin-bottom: 10px;
-  }
-
-  .home-links button {
-    width: 80%;                   /* Make the "Links" button wider */
-    margin: 10px auto;
-    background-color: #862633;    /* Garnet background */
-    color: #FFFFFF;               /* White text */
-    font-weight: bold;
-    border-radius: 5px;           /* Rounded corners for the button */
-  }
-}
 
