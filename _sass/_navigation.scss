@@ -449,3 +449,21 @@
 .site-header-inner {
     background-color: #862633 !important;
 }
+
+/* Improve text visibility on garnet background */
+.site-header a,
+.masthead a,
+.greedy-nav a,
+.nav__list a {
+    color: #FFFFFF !important; /* White text for better contrast */
+    text-decoration: none; /* Removes underline, if present */
+}
+
+/* Optional: Adjust hover effect */
+.site-header a:hover,
+.masthead a:hover,
+.greedy-nav a:hover,
+.nav__list a:hover {
+    color: #FFD700 !important; /* Gold for a nice FSU-inspired hover effect */
+}
+
