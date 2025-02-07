@@ -103,6 +103,11 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     </ul>
 </section>
 
+<section id="computational-skills">
+  <h2>Computational Skills</h2>
+  <p>Stata, R, LaTeX, Git</p>
+</section>
+
 <section id="references">
   <h2>References</h2>
   <p>
