@@ -467,3 +467,30 @@
     color: #FFD700 !important; /* Gold for a nice FSU-inspired hover effect */
 }
 
+/* Change the color of the dropdown navigation*/
+
+/* Change the mobile dropdown background to garnet */
+.greedy-nav .hidden-links,
+.mobile-nav,
+.dropdown-menu {
+    background-color: #862633 !important; /* Garnet background */
+    border: none; 
+    box-shadow: none;
+}
+
+/* Keep the text white for better contrast */
+.greedy-nav .hidden-links a,
+.mobile-nav a,
+.dropdown-menu a {
+    color: #FFFFFF !important; /* White text */
+    text-decoration: none; /* Optional: Removes underline if present */
+}
+
+/* Optional: Hover effect for links */
+.greedy-nav .hidden-links a:hover,
+.mobile-nav a:hover,
+.dropdown-menu a:hover {
+    background-color: #6E1F29; /* Slightly darker garnet for hover effect */
+    color: #FFFFFF !important; /* Keep text white even on hover */
+}
+
