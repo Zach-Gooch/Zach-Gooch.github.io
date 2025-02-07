@@ -14,8 +14,8 @@
   margin-bottom: 1em;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 100vh;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
+    height: auto;                   /* Changed from 100vh to auto */
+    overflow-y: visible;            /* Changed from auto to visible */
     position: fixed;
     padding-top: $masthead-height;
   }
