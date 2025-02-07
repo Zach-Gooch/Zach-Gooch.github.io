@@ -90,13 +90,14 @@
     height: auto;
   }
 
-  img {
-    max-width: 175px;
-    border-radius: 15px; /* Changing the shape of the profile image on the home screen */ 
+img {
+    max-width: 140px; /* Reduced from 175px to 140px */
+    height: auto;     /* Maintain aspect ratio */
+    border-radius: 15px;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+        padding: 5px;
+        border: 1px solid $border-color;
     }
   }
 }
