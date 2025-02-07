@@ -433,3 +433,19 @@
     }
   }
 }
+
+/*Making all of the header a different color*/
+
+/* Apply garnet color to the entire header section */
+.site-header,
+.masthead,
+.greedy-nav {
+    background-color: #862633 !important; /* Garnet color */
+    border: none; /* Removes any borders causing separation */
+    box-shadow: none; /* Optional: Removes any shadow if present */
+}
+
+/* Ensure inner header elements are also garnet */
+.site-header-inner {
+    background-color: #862633 !important;
+}
