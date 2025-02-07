@@ -91,7 +91,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 15px;
+    border-radius: 15px; /* Changing the shape of the profile image on the home screen */ 
 
     @include breakpoint($large) {
       padding: 5px;
