@@ -91,9 +91,8 @@
   }
 
 img {
-    max-width: 140px; /* Reduced from 175px to 140px */
-    height: auto;     /* Maintain aspect ratio */
-    border-radius: 15px;
+    max-width: 175px;
+    border-radius: 15px; /* Rounded rectangle */
 
     @include breakpoint($large) {
         padding: 5px;
