@@ -87,21 +87,25 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 </section>
 
 
-<section id ="presentations">
-    <h2>Conference and Seminar Presentations</h2>
-    <h3>2025</h3>
-    <ul>
-        <li>FSU Quantitative Economics Workshop</li>
-    </ul>
-    <h3>2023</h3>
-    <ul>
-        <li>Academy of Economics and Finance Annual Conference</li>
-    </ul>
-    <h3>2022</h3>
-    <ul>
-        <li>College of Business Research Assembly at Georgia College & State University</li>
-    </ul>
+<section id="presentations">
+  <h2>Conference and Seminar Presentations</h2>
+  
+  <h3>2025</h3>
+  <ul>
+    <li>FSU Quantitative Economics Workshop <span style="float: right;">Tallahassee, FL</span></li>
+  </ul>
+
+  <h3>2023</h3>
+  <ul>
+    <li>Academy of Economics and Finance Annual Conference <span style="float: right;">Orlando, FL</span></li>
+  </ul>
+
+  <h3>2022</h3>
+  <ul>
+    <li>College of Business Research Assembly at GC&amp;SU <span style="float: right;">Milledgeville, GA</span></li>
+  </ul>
 </section>
+
 
 <section id="computational-skills">
   <h2>Computational Skills</h2>
