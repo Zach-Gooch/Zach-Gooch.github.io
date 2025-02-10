@@ -40,5 +40,32 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Changing Font? */
+/* Adding buttons to homepage */
+
+/* Button Style Matching Sidebar */
+.icon-button {
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 15px;
+  background-color: #862633; /* Garnet color */
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  border: 1px solid #862633;
+}
+
+.icon-button i {
+  margin-right: 8px; /* Space between icon and text */
+  font-size: 18px;
+  vertical-align: middle;
+}
+
+.icon-button:hover {
+  background-color: #6b1e29; /* Slightly darker garnet on hover */
+  color: white;
+  text-decoration: none;
+}
 
