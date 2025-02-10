@@ -9,14 +9,16 @@ redirect_from:
 
 <section id="about-home">
 
-  <!-- Name Above the Picture (Centered, Standard Font) -->
+  <!-- Name Above the Picture (Centered) -->
   <div style="text-align: center; margin-bottom: 10px;">
     <h1 style="font-size: 2.5em; margin: 0;">Colin P. Adams</h1>
   </div>
 
-  <!-- Smaller Profile Picture -->
+  <!-- Profile Picture with Frame -->
   <div style="text-align: center;">
-    <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" style="max-width: 50%; height: auto; border-radius: 15px;">
+    <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
+         style="max-width: 50%; height: auto; border-radius: 15px; 
+                padding: 5px; border: 1px solid #ccc;">
   </div>
 
   <!-- Contact Information -->
@@ -46,6 +48,7 @@ redirect_from:
   </div>
 
 </section>
+
 
 
 
