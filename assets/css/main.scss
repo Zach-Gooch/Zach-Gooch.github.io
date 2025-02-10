@@ -42,14 +42,22 @@
 
 /* Adding buttons to homepage */
 
-/* Button Style Matching Sidebar */
+/* Centering the Button Container */
+.button-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  flex-wrap: wrap;          /* Allow buttons to wrap if screen is narrow */
+  gap: 10px;                /* Add space between buttons */
+  margin: 20px 0;
+}
+
+/* Button Style */
 .icon-button {
   display: inline-block;
-  margin: 5px;
   padding: 8px 15px;
   background-color: #862633; /* Garnet color */
   color: white;
-  text-decoration: none;
+  text-decoration: none !important; /* Ensure no underline */
   border-radius: 8px;
   font-weight: bold;
   font-size: 16px;
@@ -58,14 +66,15 @@
 }
 
 .icon-button i {
-  margin-right: 8px; /* Space between icon and text */
+  margin-right: 6px;
   font-size: 18px;
   vertical-align: middle;
 }
 
 .icon-button:hover {
-  background-color: #6b1e29; /* Slightly darker garnet on hover */
+  background-color: #6b1e29; /* Darker garnet on hover */
   color: white;
-  text-decoration: none;
+  text-decoration: none !important; /* Prevent underline on hover */
 }
+
 
