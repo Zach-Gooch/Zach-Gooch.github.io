@@ -76,15 +76,15 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
   <p>
     <strong>Florida State University</strong><br>
-    with <a href="https://sites.google.com/site/jbkimecon/" target="_blank">Jeongbin Kim</a> 
-    <span style="float:right;">Summer, 2024</span>
+    <span class="indent">with <a href="https://sites.google.com/site/jbkimecon/" target="_blank">Jeongbin Kim</a> 
+    <span style="float:right;">Summer, 2024</span></span>
   </p>
 
   <p>
     <strong>Georgia College & State University</strong><br>
-    Mentored Undergraduate Research and Creative Endeavors (MURACE) with 
+    <span class="indent">Mentored Undergraduate Research and Creative Endeavors (MURACE) with 
     <a href="https://scholar.google.com/citations?user=fIReWHEAAAAJ&hl=en" target="_blank">Brent Evans</a> 
-    <span style="float:right;">Summer, 2022</span>
+    <span style="float:right;">Summer, 2022</span></span>
   </p>
 </section>
 
