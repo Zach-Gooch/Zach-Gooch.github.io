@@ -14,16 +14,16 @@ redirect_from:
     <img src="/images/Another Nice Picture.jpg" alt="Colin Adams" style="max-width: 50%; height: auto; border-radius: 15px;">
   </div>
 
-  <!-- Your Name and Contact Information -->
+  <!-- Contact Information -->
   <div style="text-align: center; margin-top: 10px;">
     <p>Economics Ph.D. Student at Florida State University</p>
     <p>
-      <a href="mailto:ca23a@fsu.edu" target="_blank">Email</a> |
       <a href="/CV.pdf" target="_blank">CV</a> |
-      <a href="https://www.linkedin.com/in/colin-p-adams/" target="_blank">LinkedIn</a> |
+      <a href="mailto:ca23a@fsu.edu" target="_blank">Email</a> |
       <a href="https://scholar.google.com/citations?user=JVDSOfEAAAAJ" target="_blank">Google Scholar</a> |
+      <a href="https://www.researchgate.net/profile/Colin-Adams-3" target="_blank">ResearchGate</a> |
       <a href="https://orcid.org/0009-0002-3490-5927" target="_blank">ORCID</a> |
-      <a href="https://www.researchgate.net/profile/Colin-Adams-3" target="_blank">ResearchGate</a>
+      <a href="https://www.linkedin.com/in/colin-p-adams/" target="_blank">LinkedIn</a>
     </p>
   </div>
 
@@ -41,6 +41,7 @@ redirect_from:
   </div>
 
 </section>
+
 
 
 
