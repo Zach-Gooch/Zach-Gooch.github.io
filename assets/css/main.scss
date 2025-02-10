@@ -77,4 +77,10 @@
   text-decoration: none !important; /* Prevent underline on hover */
 }
 
+/* Reduce Spacing Between Bullet Points on CV Page */
+#cv-page ul li {
+  margin-bottom: 5px; /* Adjust this value for tighter or looser spacing */
+  line-height: 1.3;   /* Reduces line spacing within items */
+  padding: 0;         /* Removes extra padding if any */
+}
 
