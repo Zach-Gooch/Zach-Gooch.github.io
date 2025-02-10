@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Colin P. Adams"
+name                     : &name "Colin Adams"
 description              : &description "personal description"
 url                      : https://Colin-P-Adams.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Colin-P-Adams/Colin-P-Adams.github.io"
 author:
   # Biographic information
   avatar           : "Another Nice Picture.jpg"
-  name             : "Colin Adams"
+  name             : "Colin P. Adams"
   pronouns         : # example: "she/her"  
   bio              : "Economics Ph.D. Student"
   location         : "Tallahassee, Florida"
