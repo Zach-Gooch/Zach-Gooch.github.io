@@ -25,10 +25,6 @@ redirect_from:
   <div class="homepage-links">
     <a href="/CV.pdf" class="icon-button" target="_blank">
       <i class="fas fa-file-alt"></i> CV
-    </a>
-    <a href="mailto:ca23a@fsu.edu" class="icon-button" target="_blank">
-      <i class="fas fa-envelope"></i> Email
-    </a>
     <a href="https://scholar.google.com/citations?user=JVDSOfEAAAAJ" class="icon-button" target="_blank">
       <i class="ai ai-google-scholar"></i> Google Scholar
     </a>
