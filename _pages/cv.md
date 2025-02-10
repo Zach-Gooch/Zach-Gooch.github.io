@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-  - \curriculumvitae
+  - /curriculumvitae
 ---
 
 A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
