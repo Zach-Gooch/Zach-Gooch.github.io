@@ -16,7 +16,6 @@ redirect_from:
 
   <!-- Your Name and Contact Information -->
   <div style="text-align: center; margin-top: 10px;">
-    <h1>Colin Adams</h1>
     <p>Economics Ph.D. Student at Florida State University</p>
     <p>
       <a href="mailto:ca23a@fsu.edu" target="_blank">Email</a> |
