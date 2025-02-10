@@ -84,3 +84,9 @@
   padding: 0;         /* Removes extra padding if any */
 }
 
+.indent {
+  display: block;     /* Moves it to the next line */
+  margin-left: 20px;  /* Adjust this value to control indentation */
+}
+
+
