@@ -14,23 +14,33 @@ redirect_from:
     <h1 style="font-size: 2.5em; margin: 0;">Colin P. Adams</h1>
   </div>
 
-  <!-- Profile Picture with Frame -->
+  <!-- Profile Picture -->
   <div style="text-align: center;">
     <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
          style="max-width: 50%; height: auto; border-radius: 15px; 
                 padding: 5px; border: 1px solid #ccc;">
   </div>
 
-  <!-- Contact Information -->
-  <div style="text-align: center; margin-top: 10px;">
-    <p>Economics Ph.D. Student at Florida State University</p>
-    <p>
-      <a href="/CV.pdf" target="_blank">CV</a> |
-      <a href="https://scholar.google.com/citations?user=JVDSOfEAAAAJ" target="_blank">Google Scholar</a> |
-      <a href="https://www.researchgate.net/profile/Colin-Adams-3" target="_blank">ResearchGate</a> |
-      <a href="https://orcid.org/0009-0002-3490-5927" target="_blank">ORCID</a> |
-      <a href="https://www.linkedin.com/in/colin-p-adams/" target="_blank">LinkedIn</a>
-    </p>
+  <!-- Buttons Matching Sidebar Style -->
+  <div class="homepage-links">
+    <a href="/CV.pdf" class="icon-button" target="_blank">
+      <i class="fas fa-file-alt"></i> CV
+    </a>
+    <a href="mailto:ca23a@fsu.edu" class="icon-button" target="_blank">
+      <i class="fas fa-envelope"></i> Email
+    </a>
+    <a href="https://scholar.google.com/citations?user=JVDSOfEAAAAJ" class="icon-button" target="_blank">
+      <i class="ai ai-google-scholar"></i> Google Scholar
+    </a>
+    <a href="https://www.researchgate.net/profile/Colin-Adams-3" class="icon-button" target="_blank">
+      <i class="fab fa-researchgate"></i> ResearchGate
+    </a>
+    <a href="https://orcid.org/0009-0002-3490-5927" class="icon-button" target="_blank">
+      <i class="ai ai-orcid"></i> ORCID
+    </a>
+    <a href="https://www.linkedin.com/in/colin-p-adams/" class="icon-button" target="_blank">
+      <i class="fab fa-linkedin"></i> LinkedIn
+    </a>
   </div>
 
   <!-- About Me Section -->
@@ -47,15 +57,3 @@ redirect_from:
   </div>
 
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
