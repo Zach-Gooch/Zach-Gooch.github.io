@@ -22,22 +22,24 @@ redirect_from:
   </div>
 
   <!-- Buttons Matching Sidebar Style -->
-  <div class="homepage-links">
-    <a href="/CV.pdf" class="icon-button" target="_blank">
-      <i class="fas fa-file-alt"></i> CV
-    <a href="https://scholar.google.com/citations?user=JVDSOfEAAAAJ" class="icon-button" target="_blank">
-      <i class="ai ai-google-scholar"></i> Google Scholar
-    </a>
-    <a href="https://www.researchgate.net/profile/Colin-Adams-3" class="icon-button" target="_blank">
-      <i class="fab fa-researchgate"></i> ResearchGate
-    </a>
-    <a href="https://orcid.org/0009-0002-3490-5927" class="icon-button" target="_blank">
-      <i class="ai ai-orcid"></i> ORCID
-    </a>
-    <a href="https://www.linkedin.com/in/colin-p-adams/" class="icon-button" target="_blank">
-      <i class="fab fa-linkedin"></i> LinkedIn
-    </a>
-  </div>
+<div class="button-container">
+  <a href="/CV.pdf" class="icon-button" target="_blank">
+    <i class="fas fa-file-alt"></i> CV
+  </a>
+  <a href="https://scholar.google.com/citations?user=JVDSOfEAAAAJ" class="icon-button" target="_blank">
+    <i class="ai ai-google-scholar"></i> Google Scholar
+  </a>
+  <a href="https://www.researchgate.net/profile/Colin-Adams-3" class="icon-button" target="_blank">
+    <i class="fab fa-researchgate"></i> ResearchGate
+  </a>
+  <a href="https://orcid.org/0009-0002-3490-5927" class="icon-button" target="_blank">
+    <i class="ai ai-orcid"></i> ORCID
+  </a>
+  <a href="https://www.linkedin.com/in/colin-p-adams/" class="icon-button" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
+</div>
+
 
   <!-- About Me Section -->
   <div id="about-me" style="text-align: center; margin-top: 20px;">
