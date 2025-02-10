@@ -26,7 +26,6 @@ redirect_from:
     <p>Economics Ph.D. Student at Florida State University</p>
     <p>
       <a href="/CV.pdf" target="_blank">CV</a> |
-      <a href="mailto:ca23a@fsu.edu" target="_blank">Email</a> |
       <a href="https://scholar.google.com/citations?user=JVDSOfEAAAAJ" target="_blank">Google Scholar</a> |
       <a href="https://www.researchgate.net/profile/Colin-Adams-3" target="_blank">ResearchGate</a> |
       <a href="https://orcid.org/0009-0002-3490-5927" target="_blank">ORCID</a> |
