@@ -9,13 +9,13 @@ redirect_from:
 
 <section id="about-home">
 
-  <!-- Large Profile Picture -->
+  <!-- Smaller Profile Picture -->
   <div style="text-align: center;">
-    <img src="/images/Another Nice Picture.jpg" alt="Colin Adams" style="max-width: 100%; height: auto; border-radius: 15px;">
+    <img src="/images/Another Nice Picture.jpg" alt="Colin Adams" style="max-width: 50%; height: auto; border-radius: 15px;">
   </div>
 
-  <!-- Contact Information and Links -->
-  <div style="text-align: center; margin-top: 20px;">
+  <!-- Your Name Below the Picture -->
+  <div style="text-align: center; margin-top: 10px;">
     <h1>Colin Adams</h1>
     <p>Economics Ph.D. Student at Florida State University</p>
     <p>
@@ -41,6 +41,7 @@ redirect_from:
   </section>
 
 </section>
+
 
 
 
