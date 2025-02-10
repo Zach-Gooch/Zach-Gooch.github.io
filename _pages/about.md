@@ -9,9 +9,9 @@ redirect_from:
 
 <section id="about-home">
 
-  <!-- Name Above the Picture -->
+  <!-- Name Above the Picture (Centered, Standard Font) -->
   <div style="text-align: center; margin-bottom: 10px;">
-    <h1>Colin P. Adams</h1>
+    <h1 style="font-size: 2.5em; margin: 0;">Colin P. Adams</h1>
   </div>
 
   <!-- Smaller Profile Picture -->
@@ -46,6 +46,7 @@ redirect_from:
   </div>
 
 </section>
+
 
 
 
