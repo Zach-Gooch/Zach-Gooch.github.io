@@ -76,7 +76,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
   <p>
     <strong>Florida State University</strong><br>
-    <span class="indent">with <a href="https://sites.google.com/site/jbkimecon/" target="_blank">Jeongbin Kim</a> 
+    <span class="indent">With <a href="https://sites.google.com/site/jbkimecon/" target="_blank">Jeongbin Kim</a> 
     <span style="float:right;">Summer, 2024</span></span>
   </p>
 
