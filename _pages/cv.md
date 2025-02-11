@@ -15,12 +15,12 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <p>
     <strong>Florida State University</strong><br>
     <span class="indent">Ph.D., Economics <span style="float:right;">(Expected) May, 2028</span><br>
-    <span class="indent">M.S., Economics <span style="float:right;"> December, 2024</span>
+    M.S., Economics <span style="float:right;"> December, 2024</span>
   </p>
   <p>
     <strong>Georgia College & State University</strong><br>
     <span class="indent">B.S., Economics (<em>summa cum laude</em>) <span style="float:right;"> May, 2023</span><br>
-    <span class="indent">B.S., Finance (<em>summa cum laude</em>) <span style="float:right;"> May, 2023</span>
+    B.S., Finance (<em>summa cum laude</em>) <span style="float:right;"> May, 2023</span>
   </p>
 </section>
 
