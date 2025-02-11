@@ -12,16 +12,16 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
 <section id="education">
   <h2>Education</h2>
-  <p>
+  <div>
     <strong>Florida State University</strong><br>
     <span class="indent">Ph.D., Economics <span style="float:right;">(Expected) May, 2028</span></span><br>
     <span class="indent">M.S., Economics <span style="float:right;">December, 2024</span></span>
-  </p>
-  <p>
+  </div>
+  <div>
     <strong>Georgia College & State University</strong><br>
     <span class="indent">B.S., Economics (<em>summa cum laude</em>) <span style="float:right;">May, 2023</span></span><br>
     <span class="indent">B.S., Finance (<em>summa cum laude</em>) <span style="float:right;">May, 2023</span></span>
-  </p>
+  </div>
 </section>
 
 
