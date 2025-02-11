@@ -104,7 +104,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
   <h3>2022</h3>
   <ul>
-    <li>College of Business Research Assembly at GC&amp;SU <span style="float: right;">Milledgeville, GA</span></li>
+    <li>College of Business Research Assembly at Georgia College &amp; State University <span style="float: right;">Milledgeville, GA</span></li>
   </ul>
 </section>
 
