@@ -59,7 +59,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
         <li>Math Camp for First-Year Students (Ph.D.) <span style="float:right;">Summer, 2024</span></li>
         <li>International Finance <span style="float:right;">Spring, 2024</span></li>
         <li>Business Organization and Market Structure <span style="float:right;">Fall, 2023</span></li>
-        <li>Principles of Micro/Macro <span style="float:right;">Fall, 2023-Spring 2025</span></li>
+        <li>Principles of Micro/Macro <span style="float:right;">Fall, 2023-Spring, 2025</span></li>
     </ul>
 </section>
 
