@@ -50,7 +50,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     <h2>Teaching Experience</h2>
     <h3>As the Instructor of Record</h3>
     <ul>
-        <li><em>TBD</em> <span style="float:right;">Summer, 2025</span></li>
+        <li>Principles of Microeconomics <span style="float:right;">Summer, 2025</span></li>
     </ul>
     <h3>As a Teaching Assistant</h3>
     <ul>
