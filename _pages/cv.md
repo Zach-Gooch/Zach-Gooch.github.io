@@ -33,7 +33,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 </section>
 
 <section id="publications">
-  <h2>Undergraduate Publications</h2>
+  <h2>Publications</h2>
   <ul>
     <li>
       <a href="https://journals.sagepub.com/doi/pdf/10.1177/05694345241292611" target="_blank">
@@ -41,7 +41,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
       </a>, <em>The American Economist</em>, 2024.<br>
       with <a href="https://scholar.google.com/citations?user=fIReWHEAAAAJ&hl=en" target="_blank">Brent Evans</a>, 
       <a href="https://scholar.google.com/citations?hl=en&user=l4l5cA8AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Joshua Pitts</a>, and 
-      <a href="https://mises.org/profile/donavan-lingerfelt" target="_blank">Donavan Lingerfelt</a>
+      <a href="https://mises.org/profile/donavan-lingerfelt" target="_blank">Donavan Lingerfelt (Written in undergrad)</a>
     </li>
   </ul>
 </section>
