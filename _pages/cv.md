@@ -61,6 +61,10 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
         <li>Business Organization and Market Structure <span style="float:right;">Fall, 2023</span></li>
         <li>Principles of Micro/Macro <span style="float:right;">Fall, 2023-Spring, 2025</span></li>
     </ul>
+    <h3>As a Supplemental Instruction Leader</h3>
+    <ul>
+        <li>Principles of Macroeconomics <span style="float:right;">Spring, 2020-Spring, 2022</span></li>
+    </ul>
 </section>
 
 
