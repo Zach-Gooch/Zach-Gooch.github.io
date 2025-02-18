@@ -48,11 +48,11 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
 <section>
     <h2>Teaching Experience</h2>
-    <h3>As the Instructor of Record</h3>
+    <h3>As the Instructor of Record at FSU</h3>
     <ul>
         <li>Principles of Microeconomics <span style="float:right;">Summer, 2025</span></li>
     </ul>
-    <h3>As a Teaching Assistant</h3>
+    <h3>As a Teaching Assistant at FSU</h3>
     <ul>
         <li>Microeconomic Theory II (Ph.D.) <span style="float:right;">Spring, 2025</span></li>
         <li>Microeconomic Theory I (Ph.D.) <span style="float:right;">Fall, 2024</span></li>
@@ -61,7 +61,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
         <li>Business Organization and Market Structure <span style="float:right;">Fall, 2023</span></li>
         <li>Principles of Micro/Macro <span style="float:right;">Fall, 2023-Spring, 2025</span></li>
     </ul>
-    <h3>As a Supplemental Instruction Leader</h3>
+    <h3>As a Supplemental Instruction Leader at GC&SU</h3>
     <ul>
         <li>Principles of Macroeconomics <span style="float:right;">Spring, 2020-Spring, 2022</span></li>
     </ul>
