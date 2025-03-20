@@ -73,6 +73,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <ul>
     <li>Charles and Persis Rockwood Fellowship, FSU <span style="float:right;">2023-Present</span></li>
     <li>Hayek Fund for Scholars, Institute for Humane Studies (IHS) <span style="float:right;">2023</span></li>
+    <li>Mentored Undergraduate Research and Creative Endeavors (<a href="https://www.gcsu.edu/murace" target="_blank">MURACE</a>) Grant, GCSU <span style="float:right;">2022</span></li>
   </ul>
 </section>
 
