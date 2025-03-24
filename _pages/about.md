@@ -15,8 +15,8 @@ redirect_from:
     flex-direction: column;
     gap: 30px;
     margin: 30px auto;
-    padding: 0 20px;
-    max-width: 1200px;
+    padding: 0 40px;
+    max-width: 100%;
   }
 
   .about-header {
@@ -27,7 +27,7 @@ redirect_from:
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
   }
 
   .left-panel {
@@ -37,7 +37,8 @@ redirect_from:
   }
 
   .profile-image img {
-    max-width: 300px;
+    max-width: 100%;
+    width: 300px;
     height: auto;
     border-radius: 15px;
     padding: 5px;
@@ -46,18 +47,33 @@ redirect_from:
 
   .about-text {
     max-width: 700px;
+    text-align: center;
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 992px) {
     .about-body {
       flex-direction: row;
-      align-items: flex-start;
-      justify-content: space-between;
+      justify-content: center;
+      align-items: center;
+      gap: 60px;
+    }
+
+    .profile-image img {
+      width: 375px;
     }
 
     .about-text {
-      text-align: left;
+      width: 600px;
+      text-align: center;
     }
+  }
+
+  .button-container {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
   }
 </style>
 
@@ -77,7 +93,7 @@ redirect_from:
         <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams">
       </div>
 
-  <div class="button-container" style="margin-top: 15px;">
+  <div class="button-container">
         <a href="/CV.pdf" class="icon-button" target="_blank">
           <i class="fas fa-file-alt"></i> CV
         </a>
@@ -110,4 +126,3 @@ redirect_from:
 
   </div>
 </section>
-
