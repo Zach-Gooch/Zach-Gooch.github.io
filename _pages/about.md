@@ -17,7 +17,7 @@ redirect_from:
   <!-- Profile Picture -->
   <div style="text-align: center;">
     <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
-         style="max-width: 50%; height: auto; border-radius: 15px; 
+         style="max-width: 75%; height: auto; border-radius: 15px; 
                 padding: 5px; border: 1px solid #ccc;">
   </div>
 
