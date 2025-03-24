@@ -24,6 +24,12 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   </p>
 </section>
 
+<section id="fields">
+  <h2>Fields of Interest</h2>
+  <p>
+    Public Eonomics, Labor Economics, Crime Economics, and Applied Microeconomics
+  </p>
+</section>
 
 <section id="working-papers">
   <h2>Working Papers</h2>
