@@ -11,13 +11,16 @@ redirect_from:
 
 <style>
   .about-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
-    margin-top: 20px;
-    text-align: center;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  margin: 20px auto 0 auto;
+  text-align: center;
+  max-width: 1000px;
+  padding: 0 20px;
+}
+
 
   .profile-image img {
     max-width: 300px;
