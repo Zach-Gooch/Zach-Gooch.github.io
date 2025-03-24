@@ -32,7 +32,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 </section>
 
 <section id="working-papers">
-  <h2>Working Papers</h2>
+  <h2>Working Paper(s) and Work(s) in Progress</h2>
   <ul>
     <li>Prison, Peers, and Recidivism: Does Severity Matter?</li>
   </ul>
