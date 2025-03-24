@@ -17,7 +17,8 @@ redirect_from:
   gap: 20px;
   margin: 20px auto 0 auto;
   text-align: center;
-  max-width: 1000px;
+  width: 100%;
+  max-width: none;
   padding: 0 20px;
 }
 
@@ -31,8 +32,9 @@ redirect_from:
   }
 
   .about-text {
-    max-width: 600px;
-  }
+  width: 60%;
+  padding-left: 40px;
+}
 
   .left-panel {
     display: flex;
@@ -41,12 +43,14 @@ redirect_from:
   }
 
   @media (min-width: 768px) {
-    .about-container {
-      flex-direction: row;
-      justify-content: center;
-      align-items: flex-start;
-      text-align: left;
-    }
+  .about-container {
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    text-align: left;
+    padding: 0 60px;
+  }
+}
 
     .left-panel {
       width: 35%;
