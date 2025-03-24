@@ -7,6 +7,42 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* Default (mobile) layout */
+  .profile-image, .about-text {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .profile-image img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 15px;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+
+  /* Side-by-side on larger screens */
+  @media (min-width: 768px) {
+    .profile-image, .about-text {
+      display: inline-block;
+      vertical-align: top;
+    }
+
+    .profile-image {
+      width: 35%;
+      text-align: right;
+      padding-right: 30px;
+    }
+
+    .about-text {
+      width: 55%;
+      text-align: left;
+    }
+  }
+</style>
+
+
 <section id="about-home">
 
   <!-- Name Above the Picture (Centered) -->
@@ -14,12 +50,13 @@ redirect_from:
     <h1 style="font-size: 2.5em; margin: 0;">Colin P. Adams</h1>
   </div>
 
-  <!-- Profile Picture -->
-  <div style="text-align: center;">
-    <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
-         style="max-width: 50%; height: auto; border-radius: 15px; 
-                padding: 5px; border: 1px solid #ccc;">
-  </div>
+<!-- Profile Picture -->
+<div class="profile-image">
+  <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
+       style="max-width: 100%; height: auto; border-radius: 15px; 
+              padding: 5px; border: 1px solid #ccc;">
+</div>
+
 
   <!-- Buttons Matching Sidebar Style -->
 <div class="button-container">
@@ -41,16 +78,17 @@ redirect_from:
 </div>
 
 
-  <!-- About Me Section -->
-  <div id="about-me" style="text-align: center; margin-top: 20px;">
-    <p>
-      I am a second-year Ph.D. student in economics and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
-      My research interests are in crime, public, and labor economics with a particular interest in the causes of recidivism in the US.
-    </p>
-    <p>
-      Previously, I graduated from Georgia College & State University with a B.S. in Economics and a B.S. in Finance.
-      <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me from my time at GCSU.
-    </p>
-  </div>
+<!-- About Me Section -->
+<div class="about-text">
+  <p>
+    I am a second-year Ph.D. student in economics and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
+    My research interests are in crime, public, and labor economics with a particular interest in the causes of recidivism in the US.
+  </p>
+  <p>
+    Previously, I graduated from Georgia College & State University with a B.S. in Economics and a B.S. in Finance.
+    <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me from my time at GCSU.
+  </p>
+</div>
+
 
 </section>
