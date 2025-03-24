@@ -11,17 +11,30 @@ redirect_from:
 
 <style>
   .about-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 20px;
-  margin: 20px auto 0 auto;
-  text-align: center;
-  width: 100%;
-  max-width: none;
-  padding: 0 20px;
-}
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin: 30px auto;
+    padding: 0 20px;
+    max-width: 1200px;
+  }
 
+  .about-header {
+    text-align: center;
+  }
+
+  .about-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .left-panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
   .profile-image img {
     max-width: 300px;
@@ -32,55 +45,39 @@ redirect_from:
   }
 
   .about-text {
-  width: 60%;
-  padding-left: 40px;
-}
-
-  .left-panel {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    max-width: 700px;
   }
 
   @media (min-width: 768px) {
-  .about-container {
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: flex-start;
-    text-align: left;
-    padding: 0 60px;
-  }
-}
-
-    .left-panel {
-      width: 35%;
-      text-align: center;
+    .about-body {
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: space-between;
     }
 
     .about-text {
-      width: 55%;
-      padding-left: 30px;
+      text-align: left;
     }
   }
 </style>
 
-<section id="about-home">
+<section id="about-home" class="about-container">
 
-  <!-- Name Above the Picture (Centered) -->
-  <div style="text-align: center; margin-bottom: 10px;">
+  <!-- Name -->
+  <div class="about-header">
     <h1 style="font-size: 2.5em; margin: 0;">Colin P. Adams</h1>
   </div>
 
-  <!-- Start of horizontal layout -->
-  <div class="about-container">
+  <!-- Image + Buttons | Text -->
+  <div class="about-body">
 
-    <!-- Left Side: Picture + Buttons -->
+    <!-- Left: Image + Buttons -->
   <div class="left-panel">
       <div class="profile-image">
         <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams">
       </div>
 
-  <div class="button-container">
+  <div class="button-container" style="margin-top: 15px;">
         <a href="/CV.pdf" class="icon-button" target="_blank">
           <i class="fas fa-file-alt"></i> CV
         </a>
@@ -99,7 +96,7 @@ redirect_from:
       </div>
     </div>
 
-    <!-- Right Side: Text -->
+    <!-- Right: Bio Text -->
   <div class="about-text">
       <p>
         I am a second-year Ph.D. student in economics and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
@@ -112,5 +109,5 @@ redirect_from:
     </div>
 
   </div>
-
 </section>
+
