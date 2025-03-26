@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 permalink: /posts/
-layout: posts
+layout: archive
 author_profile: true
 redirect_from:
   - /blog
