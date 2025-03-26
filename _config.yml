@@ -225,6 +225,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  pages:
+    output: true
+    permalink: /:path/
+  posts:
+    output: true
+    permalink: /posts/:title/
 
 
 # These settings control how pages and collections are included in the site
