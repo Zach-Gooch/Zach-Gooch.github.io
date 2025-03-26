@@ -15,7 +15,7 @@ main:
     url: /cv/ 
     
   - title: "Posts"
-    url: /year-archive/ 
+    url: /posts/ 
 
   - title: "Contact"
     url: /contact/ 
