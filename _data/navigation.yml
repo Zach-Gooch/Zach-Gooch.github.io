@@ -10,12 +10,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/ 
-    
-  - title: "CV"
-    url: /cv/ 
-    
+
 #  - title: "Posts"
-#    url: /posts/ 
+#    url: /posts/
+
+  - title: "CV"
+    url: /cv/  
 
   - title: "Contact"
     url: /contact/ 
