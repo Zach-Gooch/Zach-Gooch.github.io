@@ -49,7 +49,7 @@ redirect_from:
     </p>
     <p>
       Previously, I graduated from Georgia College & State University with a B.S. in Economics and a B.S. in Finance.
-      <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me from my time at GCSU.
+      <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> <!--<a href="[https://frontpage.gcsu.edu/node/14695](https://web.archive.org/web/20230609021721/https://frontpage.gcsu.edu/node/14695)" target="_blank">Here</a> --> is an article about me from my time at GCSU.
     </p>
   </div>
 
