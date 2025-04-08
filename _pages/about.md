@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .about-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+  }
+
 <section id="about-home">
 
   <!-- Name Above the Picture (Centered) -->
