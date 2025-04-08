@@ -1,7 +1,7 @@
 ---
 ---
 
-// Global font for html and body
+// Global font
 html, body {
   font-family: 'Merriweather', serif;
 }
@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
 }
 
-// Page titles (e.g., "Teaching", "Research")
+// Page titles
 .page__title {
   font-family: 'Merriweather', serif;
 }
@@ -23,22 +23,25 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
 }
 
-// Sidebar / author profile block
+// Sidebar and author block (everything)
 .sidebar,
 .author__avatar,
 .author__content,
 .author__content a,
 .author__urls-wrapper,
+.author__urls,
 .author__urls a,
-.author__location,
-.author__pronouns,
-.author__employer,
+.author__urls li,
+.author__desktop,
 .author__name,
-.author__bio {
+.author__bio,
+.author__pronouns,
+.author__location,
+.author__employer {
   font-family: 'Merriweather', serif;
 }
 
-// Homepage title
+// Homepage "Colin P. Adams" title
 #about-home h1 {
   font-family: 'Merriweather', serif;
 }
