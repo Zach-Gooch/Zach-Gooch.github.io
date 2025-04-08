@@ -16,25 +16,49 @@ redirect_from:
     gap: 40px;
   }
 
+  .about-image {
+    flex: 1;
+    max-width: 400px;
+    text-align: center;
+  }
+
+  .about-text {
+    flex: 2;
+    min-width: 300px;
+  }
+
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .about-image,
+    .about-text {
+      width: 90%;
+      max-width: none;
+    }
+  }
+</style>
+
 <section id="about-home">
 
-  <!-- Name Above the Picture (Centered) -->
+  <!-- Name -->
   <div style="text-align: center; margin-bottom: 30px;">
     <h1 style="font-size: 2.5em; margin: 0;">Colin P. Adams</h1>
   </div>
 
-  <!-- Flex Container for Image and About Text -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 40px;">
+  <!-- Main Layout: Image + Text -->
+  <div class="about-container">
 
   <!-- Profile Picture -->
-  <div style="flex: 1; max-width: 400px; text-align: center;">
+  <div class="about-image">
       <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
            style="width: 100%; height: auto; border-radius: 15px; 
                   padding: 5px; border: 1px solid #ccc;">
-  </div>
+    </div>
 
-  <!-- About Me Section -->
-  <div id="about-me" style="flex: 2; min-width: 300px;">
+  <!-- Bio + Buttons -->
+  <div class="about-text" id="about-me">
       <p>
         I am a second-year Ph.D. student in economics and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
         My research interests are in crime, public, and labor economics with a particular interest in the causes of recidivism in the United States.
@@ -67,4 +91,3 @@ redirect_from:
   </div>
 
 </section>
-
