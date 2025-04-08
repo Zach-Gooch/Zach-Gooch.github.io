@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
 }
 
-// Sidebar / author profile (everything)
+// Sidebar / author profile block
 .sidebar,
 .author__avatar,
 .author__content,
@@ -32,11 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 .author__urls a,
 .author__location,
 .author__pronouns,
-.author__employer {
-  font-family: 'Merriweather', serif;
-}
-
-// Specifically force author name and bio (your name + "Economics Ph.D. Student")
+.author__employer,
 .author__name,
 .author__bio {
   font-family: 'Merriweather', serif;
