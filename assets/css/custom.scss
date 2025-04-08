@@ -1,5 +1,37 @@
 ---
 ---
-body {
+
+// Global font for body and html
+body, html {
+  font-family: 'Merriweather', serif;
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+}
+
+// Page titles (like "Teaching", "Publications", etc.)
+.page__title {
+  font-family: 'Merriweather', serif;
+}
+
+// Navigation bar items
+.masthead,
+.masthead__menu,
+.masthead__menu-item {
+  font-family: 'Merriweather', serif;
+}
+
+// Sidebar / author profile
+.sidebar,
+.author__name,
+.author__bio,
+.author__urls-wrapper {
+  font-family: 'Merriweather', serif;
+}
+
+// Name on homepage (About page)
+#about-home h1 {
   font-family: 'Merriweather', serif;
 }
