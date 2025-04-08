@@ -16,32 +16,35 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
 }
 
-// Navigation bar
+// Navigation
 .masthead,
 .masthead__menu,
 .masthead__menu-item {
   font-family: 'Merriweather', serif;
 }
 
-// Sidebar and author block (everything)
+// Sidebar: all author profile styles
 .sidebar,
 .author__avatar,
 .author__content,
-.author__content a,
 .author__urls-wrapper,
 .author__urls,
 .author__urls a,
 .author__urls li,
 .author__desktop,
-.author__name,
-.author__bio,
 .author__pronouns,
 .author__location,
 .author__employer {
   font-family: 'Merriweather', serif;
 }
 
-// Homepage "Colin P. Adams" title
+// 💡 High-specificity fix for name + occupation
+.author__content .author__name,
+.author__content .author__bio {
+  font-family: 'Merriweather', serif;
+}
+
+// Homepage title
 #about-home h1 {
   font-family: 'Merriweather', serif;
 }
