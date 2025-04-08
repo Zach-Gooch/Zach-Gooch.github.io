@@ -45,19 +45,6 @@ redirect_from:
       max-width: none;
     }
   }
-
-  /* Tablet: scale up image to better match text size */
-  @media (min-width: 768px) and (max-width: 1024px) {
-    .about-image {
-      flex: 2;
-      max-width: none;
-    }
-
-    .about-image img {
-      width: 100%;
-      height: auto;
-    }
-  }
 </style>
 
 
