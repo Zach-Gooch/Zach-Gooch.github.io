@@ -18,13 +18,18 @@ redirect_from:
 
   .about-image {
     flex: 1;
-    max-width: 400px;
+    max-width: 500px;
     text-align: center;
   }
 
   .about-text {
     flex: 2;
     min-width: 300px;
+  }
+
+  .about-text p {
+    text-indent: 1.5em;
+    margin-bottom: 1.2em;
   }
 
   @media (max-width: 768px) {
@@ -91,3 +96,4 @@ redirect_from:
   </div>
 
 </section>
+
