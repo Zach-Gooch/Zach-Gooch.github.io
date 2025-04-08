@@ -32,18 +32,34 @@ redirect_from:
     margin-bottom: 1.2em;
   }
 
+  /* Mobile */
   @media (max-width: 768px) {
     .about-container {
       flex-direction: column;
       align-items: center;
     }
+
     .about-image,
     .about-text {
       width: 90%;
       max-width: none;
     }
   }
+
+  /* Tablet: scale up image to better match text size */
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .about-image {
+      flex: 2;
+      max-width: none;
+    }
+
+    .about-image img {
+      width: 100%;
+      height: auto;
+    }
+  }
 </style>
+
 
 <section id="about-home">
 
