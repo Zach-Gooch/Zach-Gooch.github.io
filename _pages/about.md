@@ -25,16 +25,13 @@ redirect_from:
   .about-text {
     flex: 2;
     min-width: 300px;
-    text-align: center; /* center align the paragraph content */
+    text-align: center;
   }
 
   .about-text p {
-    text-indent: 1.5em;
-    margin-bottom: 1.2em;
-    display: inline-block;
-    text-align: left; /* keep paragraph formatting */
-    max-width: 600px;
-    width: 100%;
+    text-align: center;
+    margin: 0 auto 1.2em auto;
+    max-width: 700px;
   }
 
   /* Mobile */
@@ -67,7 +64,7 @@ redirect_from:
       <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
            style="width: 100%; height: auto; border-radius: 15px; 
                   padding: 5px; border: 1px solid #ccc;">
-  </div>
+    </div>
 
   <!-- Bio + Buttons -->
   <div class="about-text" id="about-me">
