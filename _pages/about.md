@@ -99,8 +99,3 @@ redirect_from:
     </div>
 
   </div>
-![image](https://github.com/user-attachments/assets/aeb88b8d-f03b-4ab7-b7ef-bdb5b2dcf94c)
-
-
-
-</section>
