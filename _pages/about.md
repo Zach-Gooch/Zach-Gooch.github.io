@@ -65,14 +65,14 @@ redirect_from:
   <!-- Main Layout: Image + Text -->
   <div class="about-container">
 
-  <!-- Profile Picture -->
+    <!-- Profile Picture -->
   <div class="about-image">
       <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
            style="width: 100%; height: auto; border-radius: 15px; 
                   padding: 5px; border: 1px solid #ccc;">
     </div>
 
-  <!-- Bio + Buttons -->
+    <!-- Bio + Buttons -->
   <div class="about-text" id="about-me">
       <p>
         I am a second-year Ph.D. student in economics and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
@@ -83,7 +83,7 @@ redirect_from:
         <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me from my time at GCSU.
       </p>
 
-  <!-- Buttons -->
+      <!-- Buttons -->
   <div class="button-container" style="margin-top: 20px;">
         <a href="/CV.pdf" class="icon-button" target="_blank">
           <i class="fas fa-file-alt"></i> CV
@@ -108,6 +108,7 @@ redirect_from:
 </section>
 
 </div>
+
 
 
 </section>
