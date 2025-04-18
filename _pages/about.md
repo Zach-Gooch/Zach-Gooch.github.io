@@ -11,27 +11,27 @@ redirect_from:
   .about-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
     align-items: flex-start;
     gap: 40px;
+    width: 100%;
   }
 
   .about-image {
-    flex: 1;
+    flex: 1 1 300px;
     max-width: 500px;
     text-align: center;
   }
 
   .about-text {
-    flex: 2;
-    min-width: 300px;
-    text-align: center;
+    flex: 2 1 500px;
+    text-align: left;
   }
 
   .about-text p {
-    text-align: center;
+    text-align: left;
     margin: 0 auto 1.2em auto;
-    max-width: 700px;
+    max-width: none;
   }
 
   @media (max-width: 768px), (orientation: portrait) {
@@ -44,6 +44,11 @@ redirect_from:
     .about-text {
       width: 90%;
       max-width: none;
+      text-align: center;
+    }
+
+    .about-text p {
+      text-align: center;
     }
   }
 </style>
@@ -101,7 +106,8 @@ redirect_from:
   </div>
 
 </section>
-  
+
 </div>
+
 
 </section>
