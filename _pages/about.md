@@ -34,8 +34,8 @@ redirect_from:
     max-width: 700px;
   }
 
-  /* Mobile */
-  @media (max-width: 768px) {
+  /* Treat any narrower screen as mobile-style layout */
+  @media (max-width: 1000px) {
     .about-container {
       flex-direction: column;
       align-items: center;
@@ -48,6 +48,7 @@ redirect_from:
     }
   }
 </style>
+
 
 <section id="about-home">
 
