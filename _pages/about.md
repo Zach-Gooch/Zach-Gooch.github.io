@@ -34,7 +34,6 @@ redirect_from:
     max-width: 700px;
   }
 
-  /* Stack layout on mobile or vertical/portrait monitors */
   @media (max-width: 768px), (orientation: portrait) {
     .about-container {
       flex-direction: column;
@@ -48,6 +47,8 @@ redirect_from:
     }
   }
 </style>
+
+<div class="page__content">
 
 <section id="about-home">
 
@@ -64,7 +65,7 @@ redirect_from:
       <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
            style="width: 100%; height: auto; border-radius: 15px; 
                   padding: 5px; border: 1px solid #ccc;">
-  </div>
+    </div>
 
   <!-- Bio + Buttons -->
   <div class="about-text" id="about-me">
@@ -99,5 +100,8 @@ redirect_from:
 
   </div>
 
+</section>
+
+</div>
 
 </section>
