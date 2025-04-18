@@ -99,9 +99,7 @@ redirect_from:
     </div>
 
   </div>
-
-</section>
-
+  
 </div>
 
 </section>
