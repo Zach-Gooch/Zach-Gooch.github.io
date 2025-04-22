@@ -74,6 +74,19 @@ redirect_from:
       max-width: none;
     }
   }
+
+  /* Stack layout + scaled image on vertical tablets */
+  @media screen and (max-device-width: 1024px) and (orientation: portrait) {
+  .about-image img {
+    max-height: 300px !important; /* ← adjust to your liking */
+    width: auto !important;
+    height: auto !important;
+    aspect-ratio: auto;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
 </style>
 
 <section id="about-home">
