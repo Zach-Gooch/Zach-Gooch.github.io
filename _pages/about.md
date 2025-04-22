@@ -14,11 +14,12 @@ redirect_from:
     justify-content: center;
     align-items: flex-start;
     gap: 40px;
+    padding: 0 20px;
   }
 
   .about-image {
-    flex: 1;
-    max-width: 500px;
+    flex: 0 0 300px;
+    max-width: 300px;
     text-align: center;
   }
 
@@ -31,24 +32,24 @@ redirect_from:
   }
 
   .about-text {
-    flex: 2;
+    flex: 1;
     min-width: 300px;
-    text-align: center;
+    max-width: 700px;
+    text-align: left;
   }
 
   .about-text p {
-    text-align: center;
+    text-align: left;
     margin: 0 auto 1.2em auto;
-    max-width: 700px;
   }
 
   .button-container {
-    margin-top: 20px;
-    text-align: center;
+    margin-top: 15px;
+    text-align: left;
   }
 
-  /* Stack layout on mobile and portrait tablets */
-  @media (max-width: 768px), (orientation: portrait) and (max-width: 1024px) {
+  /* Stack layout on phones and vertical tablets */
+  @media (max-width: 768px) {
     .about-container {
       flex-direction: column;
       align-items: center;
@@ -66,46 +67,8 @@ redirect_from:
       text-align: center;
     }
   }
-
-  /* Horizontal tablets and small desktops */
-  @media (min-width: 769px) and (max-width: 1200px) and (orientation: landscape) {
-    .about-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 60px;
-      padding: 0 40px;
-    }
-
-    .about-image {
-      flex: 0 0 300px;
-      text-align: center;
-    }
-
-    .about-image img {
-      width: 100%;
-      max-width: 300px;
-      height: auto;
-      border-radius: 15px;
-    }
-
-    .about-text {
-      flex: 1;
-      text-align: left;
-      max-width: 600px;
-    }
-
-    .about-text p {
-      text-align: left;
-      max-width: 100%;
-    }
-
-    .button-container {
-      text-align: left;
-      margin-top: 15px;
-    }
-  }
 </style>
+
 
 
 <section id="about-home">
