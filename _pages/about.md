@@ -50,17 +50,27 @@ redirect_from:
 
   /* Stack layout on horizontal tablets */
   @media screen and (max-device-width: 1024px) and (orientation: landscape) {
-    .about-container {
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .about-image,
-    .about-text {
-      width: 90%;
-      max-width: none;
-    }
+  .about-container {
+    flex-direction: column;
+    align-items: center;
   }
+
+  .about-image {
+    width: 90%;
+    max-width: none;
+  }
+
+  .about-image img {
+    max-height: 250px;
+    width: auto;
+  }
+
+  .about-text {
+    width: 90%;
+    max-width: none;
+  }
+}
+
 </style>
 
 <section id="about-home">
