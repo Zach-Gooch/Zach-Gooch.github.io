@@ -48,30 +48,32 @@ redirect_from:
     }
   }
 
-  /* Stack layout on horizontal tablets */
+  /* Stack layout + proportionally scaled image on horizontal tablets */
   @media screen and (max-device-width: 1024px) and (orientation: landscape) {
-  .about-container {
-    flex-direction: column;
-    align-items: center;
-  }
+    .about-container {
+      flex-direction: column;
+      align-items: center;
+    }
 
-  .about-image {
-    width: auto;
-    max-width: 90%;
-  }
+    .about-image {
+      width: auto;
+      max-width: 90%;
+    }
 
-  .about-image img {
-    max-height: 250px;
-    height: auto;
-    width: auto;
-  }
+    .about-image img {
+      max-height: 250px !important;
+      width: auto !important;
+      height: auto !important;
+      aspect-ratio: auto;
+      display: block;
+      margin: 0 auto;
+    }
 
-  .about-text {
-    width: 90%;
-    max-width: none;
+    .about-text {
+      width: 90%;
+      max-width: none;
+    }
   }
-}
-
 </style>
 
 <section id="about-home">
