@@ -10,10 +10,11 @@ redirect_from:
 <style>
   .about-container {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
     justify-content: center;
-    align-items: flex-start;
-    gap: 40px;
+    align-items: center;
+    gap: 60px;
     padding: 0 20px;
   }
 
@@ -33,7 +34,6 @@ redirect_from:
 
   .about-text {
     flex: 1;
-    min-width: 300px;
     max-width: 700px;
     text-align: left;
   }
@@ -48,7 +48,7 @@ redirect_from:
     text-align: left;
   }
 
-  /* Stack layout on phones and vertical tablets */
+  /* Stack layout on narrow screens */
   @media (max-width: 768px) {
     .about-container {
       flex-direction: column;
@@ -68,6 +68,7 @@ redirect_from:
     }
   }
 </style>
+
 
 
 
