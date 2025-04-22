@@ -47,7 +47,40 @@ redirect_from:
       max-width: none;
     }
   }
+
+  /* Adjust layout for horizontal tablets and medium desktops */
+  @media (min-width: 769px) and (max-width: 1200px) {
+    .about-container {
+      padding: 0 40px;
+      column-gap: 60px;
+    }
+
+    .about-image {
+      flex: 1.2;
+    }
+
+    .about-image img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .about-text {
+      flex: 2;
+      max-width: none;
+      text-align: left;
+    }
+
+    .about-text p {
+      max-width: 600px;
+    }
+
+    .button-container {
+      text-align: left;
+      margin-top: 15px;
+    }
+  }
 </style>
+
 
 <section id="about-home">
 
