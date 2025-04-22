@@ -8,15 +8,21 @@ redirect_from:
 ---
 
 <style>
-  /* Default: show your custom layout, hide author-profile sidebar */
   #about-home {
     display: block;
   }
+
   .sidebar {
     display: none;
+    float: left;
+    max-width: 300px;
+    margin: 20px;
   }
 
-  /* Stack layout on mobile or portrait */
+  .page__content {
+    margin-left: 320px;
+  }
+
   @media (max-width: 768px), (orientation: portrait) {
     .about-container {
       flex-direction: column;
@@ -28,18 +34,27 @@ redirect_from:
       width: 90%;
       max-width: none;
     }
+
+    .page__content {
+      margin-left: 0;
+    }
   }
 
-  /* Override for horizontal tablets */
   @media (min-width: 769px) and (max-width: 1024px) and (orientation: landscape) {
     #about-home {
-      display: none; /* hide your layout */
+      display: none;
     }
+
     .sidebar {
-      display: block !important; /* show author profile sidebar */
+      display: block !important;
+    }
+
+    .page__content {
+      margin-left: 320px;
     }
   }
 </style>
+
 
 <!-- Your Custom Layout -->
 <section id="about-home">
