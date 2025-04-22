@@ -78,7 +78,7 @@ redirect_from:
   /* Stack layout + scaled image on vertical tablets */
   @media screen and (max-device-width: 1024px) and (orientation: portrait) {
   .about-image img {
-    max-height: 500px !important; /* ← adjust to your liking */
+    max-height: 550px !important; /* ← adjust to your liking */
     width: auto !important;
     height: auto !important;
     aspect-ratio: auto;
