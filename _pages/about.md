@@ -10,46 +10,32 @@ redirect_from:
 <style>
   .about-container {
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
-    gap: 60px;
-    padding: 0 20px;
+    align-items: flex-start;
+    gap: 40px;
   }
 
   .about-image {
-    flex: 0 0 300px;
-    max-width: 300px;
+    flex: 1;
+    max-width: 500px;
     text-align: center;
   }
 
-  .about-image img {
-    width: 100%;
-    height: auto;
-    border-radius: 15px;
-    padding: 5px;
-    border: 1px solid #ccc;
-  }
-
   .about-text {
-    flex: 1;
-    max-width: 700px;
-    text-align: left;
+    flex: 2;
+    min-width: 300px;
+    text-align: center;
   }
 
   .about-text p {
-    text-align: left;
+    text-align: center;
     margin: 0 auto 1.2em auto;
+    max-width: 700px;
   }
 
-  .button-container {
-    margin-top: 15px;
-    text-align: left;
-  }
-
-  /* Stack layout on narrow screens */
-  @media (max-width: 768px) {
+  /* Stack layout on mobile or vertical/portrait monitors */
+  @media (max-width: 768px), (orientation: portrait) {
     .about-container {
       flex-direction: column;
       align-items: center;
@@ -59,18 +45,9 @@ redirect_from:
     .about-text {
       width: 90%;
       max-width: none;
-      text-align: center;
-    }
-
-    .about-text p,
-    .button-container {
-      text-align: center;
     }
   }
 </style>
-
-
-
 
 <section id="about-home">
 
