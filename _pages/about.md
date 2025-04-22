@@ -34,7 +34,7 @@ redirect_from:
     max-width: 700px;
   }
 
-  /* Stack layout on mobile + tablets (landscape or portrait) */
+  /* Stack layout on mobile + portrait tablets */
   @media (max-width: 768px), (orientation: portrait) {
     .about-container {
       flex-direction: column;
