@@ -75,7 +75,7 @@ redirect_from:
         I am an applied microeconomist with research interests in crime, public, and labor economics.
       </p>
       <p>
-        Previously, I graduated from Georgia College & State University with a B.S. in Economics and a B.S. in Finance.
+        Previously, I graduated from Georgia College & State University with a B.S. in Economics and Finance.
         <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me from my time at GCSU.
       </p>
 
