@@ -61,7 +61,7 @@ redirect_from:
     }
 
     .about-image img {
-      max-height: 250px !important;
+      max-height: 350px !important;
       width: auto !important;
       height: auto !important;
       aspect-ratio: auto;
