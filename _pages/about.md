@@ -34,8 +34,22 @@ redirect_from:
     max-width: 700px;
   }
 
-  /* Stack layout on all screens <= 1024px (mobile + portrait + horizontal tablets) */
-  @media (max-width: 1024px) {
+  /* Stack layout on mobile + tablets (landscape or portrait) */
+  @media (max-width: 768px), (orientation: portrait) {
+    .about-container {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .about-image,
+    .about-text {
+      width: 90%;
+      max-width: none;
+    }
+  }
+
+  /* Stack layout on horizontal tablets */
+  @media screen and (max-device-width: 1024px) and (orientation: landscape) {
     .about-container {
       flex-direction: column;
       align-items: center;
@@ -48,8 +62,6 @@ redirect_from:
     }
   }
 </style>
-
-
 
 <section id="about-home">
 
