@@ -40,19 +40,20 @@ redirect_from:
     }
   }
 
-  @media (min-width: 769px) and (max-width: 1024px) and (orientation: landscape) {
-    #about-home {
-      display: none;
-    }
-
-    .sidebar {
-      display: block !important;
-    }
-
-    .page__content {
-      margin-left: 320px;
-    }
+  @media (min-width: 768px) and (max-width: 1024px) {
+  #about-home {
+    display: none;
   }
+
+  .sidebar {
+    display: block !important;
+  }
+
+  .page__content {
+    margin-left: 320px;
+  }
+}
+
 </style>
 
 
