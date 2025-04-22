@@ -8,33 +8,15 @@ redirect_from:
 ---
 
 <style>
-  .about-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 40px;
+  /* Default: show your custom layout, hide author-profile sidebar */
+  #about-home {
+    display: block;
+  }
+  .sidebar {
+    display: none;
   }
 
-  .about-image {
-    flex: 1;
-    max-width: 500px;
-    text-align: center;
-  }
-
-  .about-text {
-    flex: 2;
-    min-width: 300px;
-    text-align: center;
-  }
-
-  .about-text p {
-    text-align: center;
-    margin: 0 auto 1.2em auto;
-    max-width: 700px;
-  }
-
-  /* Stack layout on mobile or vertical/portrait monitors */
+  /* Stack layout on mobile or portrait */
   @media (max-width: 768px), (orientation: portrait) {
     .about-container {
       flex-direction: column;
@@ -47,8 +29,19 @@ redirect_from:
       max-width: none;
     }
   }
+
+  /* Override for horizontal tablets */
+  @media (min-width: 769px) and (max-width: 1024px) and (orientation: landscape) {
+    #about-home {
+      display: none; /* hide your layout */
+    }
+    .sidebar {
+      display: block !important; /* show author profile sidebar */
+    }
+  }
 </style>
 
+<!-- Your Custom Layout -->
 <section id="about-home">
 
   <!-- Name -->
@@ -59,14 +52,14 @@ redirect_from:
   <!-- Main Layout: Image + Text -->
   <div class="about-container">
 
-  <!-- Profile Picture -->
+    <!-- Profile Picture -->
   <div class="about-image">
       <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
            style="width: 100%; height: auto; border-radius: 15px; 
                   padding: 5px; border: 1px solid #ccc;">
     </div>
 
-  <!-- Bio + Buttons -->
+    <!-- Bio + Buttons -->
   <div class="about-text" id="about-me">
       <p>
         I am a second-year Ph.D. student in economics and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
@@ -77,25 +70,14 @@ redirect_from:
         <a href="https://frontpage.gcsu.edu/node/14695" target="_blank">Here</a> is an article about me from my time at GCSU.
       </p>
 
-  <!-- Buttons -->
   <div class="button-container" style="margin-top: 20px;">
-        <a href="/CV.pdf" class="icon-button" target="_blank">
-          <i class="fas fa-file-alt"></i> CV
-        </a>
-        <a href="https://scholar.google.com/citations?user=JVDSOfEAAAAJ" class="icon-button" target="_blank">
-          <i class="ai ai-google-scholar"></i> Google Scholar
-        </a>
-        <a href="https://www.researchgate.net/profile/Colin-Adams-3" class="icon-button" target="_blank">
-          <i class="fab fa-researchgate"></i> ResearchGate
-        </a>
-        <a href="https://orcid.org/0009-0002-3490-5927" class="icon-button" target="_blank">
-          <i class="ai ai-orcid"></i> ORCID
-        </a>
-        <a href="https://www.linkedin.com/in/colin-p-adams/" class="icon-button" target="_blank">
-          <i class="fab fa-linkedin"></i> LinkedIn
-        </a>
+        <a href="/CV.pdf" class="icon-button" target="_blank"><i class="fas fa-file-alt"></i> CV</a>
+        <a href="https://scholar.google.com/citations?user=JVDSOfEAAAAJ" class="icon-button" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+        <a href="https://www.researchgate.net/profile/Colin-Adams-3" class="icon-button" target="_blank"><i class="fab fa-researchgate"></i> ResearchGate</a>
+        <a href="https://orcid.org/0009-0002-3490-5927" class="icon-button" target="_blank"><i class="ai ai-orcid"></i> ORCID</a>
+        <a href="https://www.linkedin.com/in/colin-p-adams/" class="icon-button" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       </div>
     </div>
 
   </div>
-
+</section>
