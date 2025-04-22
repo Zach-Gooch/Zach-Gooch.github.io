@@ -56,12 +56,13 @@ redirect_from:
   }
 
   .about-image {
-    width: 90%;
-    max-width: none;
+    width: auto;
+    max-width: 90%;
   }
 
   .about-image img {
     max-height: 250px;
+    height: auto;
     width: auto;
   }
 
