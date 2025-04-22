@@ -15,13 +15,7 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% if page.url == "/" %}
-  <div class="sidebar" style="display: none;">
-    {% include author-profile.html %}
-  </div>
-{% elsif page.author_profile %}
-  {% include author-profile.html %}
-{% endif %}
+  {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
