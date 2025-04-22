@@ -34,8 +34,8 @@ redirect_from:
     max-width: 700px;
   }
 
-  /* Stack layout on mobile or vertical/portrait monitors */
-  @media (max-width: 768px), (orientation: portrait) {
+  /* Stack layout on all screens <= 1024px (mobile + portrait + horizontal tablets) */
+  @media (max-width: 1024px) {
     .about-container {
       flex-direction: column;
       align-items: center;
@@ -48,6 +48,8 @@ redirect_from:
     }
   }
 </style>
+
+
 
 <section id="about-home">
 
