@@ -50,35 +50,43 @@ redirect_from:
 
   /* Adjust layout for horizontal tablets and medium desktops */
   @media (min-width: 769px) and (max-width: 1200px) {
-    .about-container {
-      padding: 0 40px;
-      column-gap: 60px;
-    }
-
-    .about-image {
-      flex: 1.2;
-    }
-
-    .about-image img {
-      max-width: 100%;
-      height: auto;
-    }
-
-    .about-text {
-      flex: 2;
-      max-width: none;
-      text-align: left;
-    }
-
-    .about-text p {
-      max-width: 600px;
-    }
-
-    .button-container {
-      text-align: left;
-      margin-top: 15px;
-    }
+  .about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    padding: 0 40px;
   }
+
+  .about-image {
+    flex: 0 0 300px;
+    text-align: center;
+  }
+
+  .about-image img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 15px;
+  }
+
+  .about-text {
+    flex: 1;
+    text-align: left;
+    max-width: 600px;
+  }
+
+  .about-text p {
+    text-align: left;
+    max-width: 100%;
+  }
+
+  .button-container {
+    text-align: left;
+    margin-top: 15px;
+  }
+}
+
 </style>
 
 
