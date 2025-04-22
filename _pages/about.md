@@ -9,12 +9,13 @@ redirect_from:
 
 <style>
   .about-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 40px;
-  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; /* this aligns items vertically */
+  gap: 40px;
+}
+
 
   .about-image {
     flex: 1;
