@@ -22,6 +22,14 @@ redirect_from:
     text-align: center;
   }
 
+  .about-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+
   .about-text {
     flex: 2;
     min-width: 300px;
@@ -34,8 +42,13 @@ redirect_from:
     max-width: 700px;
   }
 
-  /* Stack layout on mobile or vertical/portrait monitors */
-  @media (max-width: 768px), (orientation: portrait) {
+  .button-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  /* Stack layout on mobile and portrait tablets */
+  @media (max-width: 768px), (orientation: portrait) and (max-width: 1024px) {
     .about-container {
       flex-direction: column;
       align-items: center;
@@ -45,48 +58,53 @@ redirect_from:
     .about-text {
       width: 90%;
       max-width: none;
+      text-align: center;
+    }
+
+    .about-text p,
+    .button-container {
+      text-align: center;
     }
   }
 
-  /* Adjust layout for horizontal tablets and medium desktops */
-  @media (min-width: 769px) and (max-width: 1200px) {
-  .about-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 60px;
-    padding: 0 40px;
-  }
+  /* Horizontal tablets and small desktops */
+  @media (min-width: 769px) and (max-width: 1200px) and (orientation: landscape) {
+    .about-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 60px;
+      padding: 0 40px;
+    }
 
-  .about-image {
-    flex: 0 0 300px;
-    text-align: center;
-  }
+    .about-image {
+      flex: 0 0 300px;
+      text-align: center;
+    }
 
-  .about-image img {
-    width: 100%;
-    max-width: 300px;
-    height: auto;
-    border-radius: 15px;
-  }
+    .about-image img {
+      width: 100%;
+      max-width: 300px;
+      height: auto;
+      border-radius: 15px;
+    }
 
-  .about-text {
-    flex: 1;
-    text-align: left;
-    max-width: 600px;
-  }
+    .about-text {
+      flex: 1;
+      text-align: left;
+      max-width: 600px;
+    }
 
-  .about-text p {
-    text-align: left;
-    max-width: 100%;
-  }
+    .about-text p {
+      text-align: left;
+      max-width: 100%;
+    }
 
-  .button-container {
-    text-align: left;
-    margin-top: 15px;
+    .button-container {
+      text-align: left;
+      margin-top: 15px;
+    }
   }
-}
-
 </style>
 
 
