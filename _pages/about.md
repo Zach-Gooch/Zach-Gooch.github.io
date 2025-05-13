@@ -109,7 +109,7 @@ redirect_from:
   <!-- Bio + Buttons -->
   <div class="about-text" id="about-me">
       <p>
-        I am a second-year Ph.D. student in economics and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
+        I am a Ph.D. student in economics and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
         I am an applied microeconomist with research interests in crime, public, and labor economics.
       </p>
       <p>
