@@ -57,7 +57,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
       </a>, <em>The American Economist</em>, Forthcoming.<br>
       with <a href="https://scholar.google.com/citations?user=fIReWHEAAAAJ&hl=en" target="_blank">Brent Evans</a>, 
       <a href="https://scholar.google.com/citations?hl=en&user=l4l5cA8AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Joshua Pitts</a>, and 
-      <a href="https://mises.org/profile/donavan-lingerfelt" target="_blank">Donavan Lingerfelt</a> (Written in undergrad)
+      <a href="https://mises.org/profile/donavan-lingerfelt" target="_blank">Donavan Lingerfelt</a> (written in undergrad)
     </li>
   </ul>
 </section>
