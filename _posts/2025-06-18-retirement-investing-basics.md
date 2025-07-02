@@ -15,3 +15,9 @@ I taught my first class, Principles of Microeconomics, in Summer 2025. In the la
 Despite Florida requiring all high school students to take a personal finance class, many of my students did not know what a stock was. They found this material both interesting and motivating for their own retirement planning.
 
 My presentation assumes no prior knowledge of stocks, bonds, or investing. These notes are based on <a href="https://www.freefinancebook.com/more-stuff/about-the-author" target="_blank">Dr. Brent Evans’s</a> textbook, available at <a href="https://www.freefinancebook.com/home">freefinancebook.com</a>, which I highly recommend for more detailed information than what I include. I share this in the hope that it will be helpful or inspiring to others, just as it was for my students and for me.
+
+<iframe src="/teaching/BasicsOfRetirementInvesting.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+<embed src="/teaching/BasicsOfRetirementInvesting.pdf" width="100%" height="600px" type="application/pdf">
+
+[![View PDF](https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg)](/teaching/BasicsOfRetirementInvesting.pdf)
