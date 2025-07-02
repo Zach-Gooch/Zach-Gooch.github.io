@@ -9,7 +9,7 @@ permalink: /posts/MicroTheoryGuides
 exclude_from_archive: false
 ---
 
-During my time as a first-year student, I created many "guides" to help me with the content. After passing my core exams, I became the TA for the Ph.D. microeconomics courses for the following cohort. During that time, I consolidated all of my microeconomics guides into two PDFs. These guides are based on lecture notes and problems from <a href="https://rvijaykrishna.weebly.com/" target="_blank">Dr. R. Vijay Krishna</a> and <a href="https://myweb.fsu.edu/lboosey/" target="_blank">Dr. Luke Boosey</a>.
+During my time as a first-year student, I created many "guides" to help me with the content. After passing my core exams, I became the TA for the Ph.D. microeconomics courses for the following cohort. During that time, I consolidated all of my microeconomics guides into two PDFs. These guides are based on lecture notes and problems from <a href="https://rvijaykrishna.weebly.com/" target="_blank">Dr. R. Vijay Krishna</a> and <a href="https://myweb.fsu.edu/lboosey/" target="_blank">Dr. Luke Boosey</a>. Although I am not a theorist, I hope these materials prove helpful to other Ph.D. students in economics.
 
 You can find the guides below:
 
