@@ -10,7 +10,7 @@ permalink: /posts/BasicsOfRetirementInvesting
 exclude_from_archive: false
 ---
 
-I taught my first class, Principles of Microeconomics, in Summer 2025. In the last two sessions of the course, I included a section on the basics of investing for retirement. I am passionate about financial literacy and education, and I shared some of what I have learned with my students to give them a baseline understanding.
+I taught my first class, *Principles of Microeconomics*, in Summer 2025. In the last two sessions of the course, I included a section on the basics of investing for retirement. I am passionate about financial literacy and education, and I shared some of what I have learned with my students to give them a baseline understanding.
 
 Despite Florida requiring all high school students to take a personal finance class, many of my students did not know what a stock was. They found this material both interesting and motivating for their own retirement planning.
 
