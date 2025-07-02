@@ -2,10 +2,10 @@
 title: 'Micro Theory Guides (Ph.D.)'
 date: 2025-06-01
 permalink: /posts/MicroTheoryGuides
-tags:
-  - Microeconomics
-  - PhD
-  - Theory
+# tags:
+#   - Microeconomics
+#   - PhD
+#   - Theory
 exclude_from_archive: false
 ---
 
