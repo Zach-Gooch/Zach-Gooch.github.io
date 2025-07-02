@@ -9,9 +9,6 @@ permalink: /posts/MicroTheoryGuides
 exclude_from_archive: false
 ---
 
-Microeconomics Theory Guides (Ph.D.)
-======
-
 During my time as a first-year student, I created many "guides" to help me with the content. After I passed my core exams, I became the TA for the Ph.D. micro classes for the following cohort. During this time I consolidated all my microeconomics guides into two pdfs. These guides are based on (lecture) notes and problems from <a href="https://rvijaykrishna.weebly.com/" target="_blank">Dr. R. Vijay Krishna</a> and <a href="https://myweb.fsu.edu/lboosey/" target="_blank">Dr. Luke Boosey</a>.
 
 These guides are below:
