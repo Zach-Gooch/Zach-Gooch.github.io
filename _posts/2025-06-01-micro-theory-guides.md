@@ -17,8 +17,8 @@ During my time as a first-year student, I created many "guides" to help me with 
 These guides are below:
 
 <a href="https://www.dropbox.com/scl/fi/hhtb1vbqzyzvepx6qsqls/Micro-Theory-I-Guide.pdf?rlkey=72fmwo8nnm2j32vau71dm3lgy&st=fh8utd34&dl=0" target="_blank"> Microeconomics Theory I Guide</a>
-------
+
 
 <a href="https://www.dropbox.com/scl/fi/ojporbn0lemwkk2o2ahg5/Micro-Theory-II-Guide.pdf?rlkey=sbn1oskzg6cywyfdwcljv1eih&st=krndxm7i&dl=0"> Microeconomics Theory II Guide</a>
-------
+
 
