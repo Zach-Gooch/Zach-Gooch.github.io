@@ -6,7 +6,7 @@ tags:
   - Microeconomics
   - PhD
   - Theory
-exclude_from_archive: true
+exclude_from_archive: false
 ---
 
 Microeconomics Theory Guides (Ph.D.)
