@@ -1,5 +1,5 @@
 ---
-title: 'Basics to Retirement Investing'
+title: 'Basics of Retirement Investing'
 date: 2025-07-02
 permalink: /posts/BasicsOfRetirementInvesting
 # tags:
