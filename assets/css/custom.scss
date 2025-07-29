@@ -6,6 +6,8 @@
 // =============================
 html, body {
   font-family: 'Merriweather', serif;
+  margin: 0;    // default ~8px
+  padding: 0;   // default ~8px
 }
 
 // =============================
@@ -13,8 +15,8 @@ html, body {
 // =============================
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
-  margin-top: 0.6em;   // reduced top spacing
-  margin-bottom: 0.4em; // reduced bottom spacing
+  margin-top: 0.4em;    // default ~0.67em (h2 default ~0.83em)
+  margin-bottom: 0.25em; // default ~0.5em
 }
 
 // =============================
@@ -22,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 // =============================
 .page__title {
   font-family: 'Merriweather', serif;
-  margin-bottom: 0.5em; // tighter spacing
+  margin-bottom: 0.4em;  // default ~0.67em
 }
 
 // =============================
@@ -32,6 +34,8 @@ h1, h2, h3, h4, h5, h6 {
 .masthead__menu,
 .masthead__menu-item {
   font-family: 'Merriweather', serif;
+  margin: 0;    // default might be ~10-20px depending on theme
+  padding: 0;   // default ~10-20px
 }
 
 // =============================
@@ -60,6 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 // Homepage title
 #about-home h1 {
   font-family: 'Merriweather', serif;
+  margin-bottom: 0.3em; // default ~0.67em
 }
 
 // =============================
@@ -68,33 +73,36 @@ h1, h2, h3, h4, h5, h6 {
 
 // Reduce spacing for sections
 section {
-  margin-bottom: 15px; // default was likely ~40px
+  margin-bottom: 10px;  // default ~40px
+  padding-bottom: 0;    // default ~20px
 }
 
 // Reduce spacing for subheadings
 section h2 {
-  margin-top: 0.5em;
-  margin-bottom: 0.3em;
+  margin-top: 0.4em;    // default ~0.83em
+  margin-bottom: 0.2em; // default ~0.5em
 }
 
 section h3 {
-  margin-top: 0.4em;
-  margin-bottom: 0.25em;
+  margin-top: 0.3em;    // default ~0.83em
+  margin-bottom: 0.2em; // default ~0.5em
 }
 
 // Reduce spacing for paragraphs
 section p {
-  margin-top: 0;
-  margin-bottom: 5px;
+  margin-top: 0;        // default ~1em
+  margin-bottom: 3px;   // default ~1em
+  line-height: 1.3;     // default ~1.5
 }
 
 // Compact lists
 section ul {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  padding-left: 18px; // smaller indent
+  margin-top: 3px;      // default ~1em
+  margin-bottom: 3px;   // default ~1em
+  padding-left: 16px;   // default ~40px
 }
 
 section li {
-  margin-bottom: 3px;
+  margin-bottom: 2px;   // default ~0.5em
 }
+
