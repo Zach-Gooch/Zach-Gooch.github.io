@@ -1,29 +1,42 @@
 ---
 ---
 
-// Global font
+// =============================
+// Global Font Settings
+// =============================
 html, body {
   font-family: 'Merriweather', serif;
 }
 
+// =============================
 // Headings
+// =============================
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
+  margin-top: 0.6em;   // reduced top spacing
+  margin-bottom: 0.4em; // reduced bottom spacing
 }
 
-// Page titles
+// =============================
+// Page Titles
+// =============================
 .page__title {
   font-family: 'Merriweather', serif;
+  margin-bottom: 0.5em; // tighter spacing
 }
 
+// =============================
 // Navigation
+// =============================
 .masthead,
 .masthead__menu,
 .masthead__menu-item {
   font-family: 'Merriweather', serif;
 }
 
-// Sidebar: all author profile styles
+// =============================
+// Sidebar & Author Profile
+// =============================
 .sidebar,
 .author__avatar,
 .author__content,
@@ -38,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
 }
 
-// 💡 High-specificity fix for name + occupation
+// High-specificity fix for name + occupation
 .author__content .author__name,
 .author__content .author__bio {
   font-family: 'Merriweather', serif;
@@ -47,4 +60,41 @@ h1, h2, h3, h4, h5, h6 {
 // Homepage title
 #about-home h1 {
   font-family: 'Merriweather', serif;
+}
+
+// =============================
+// Research Page Spacing Tweaks
+// =============================
+
+// Reduce spacing for sections
+section {
+  margin-bottom: 15px; // default was likely ~40px
+}
+
+// Reduce spacing for subheadings
+section h2 {
+  margin-top: 0.5em;
+  margin-bottom: 0.3em;
+}
+
+section h3 {
+  margin-top: 0.4em;
+  margin-bottom: 0.25em;
+}
+
+// Reduce spacing for paragraphs
+section p {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+// Compact lists
+section ul {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 18px; // smaller indent
+}
+
+section li {
+  margin-bottom: 3px;
 }
