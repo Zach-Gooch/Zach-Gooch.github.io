@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Colin Adams"
+name                     : &name "Zachary Gooch"
 description              : &description "personal description"
 url                      : https://Colin-P-Adams.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Colin-P-Adams/Colin-P-Adams.github.io"
+repository               : "Zach-Gooch/Zach-Gooch.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "Colin-P-Adams/Colin-P-Adams.github.io"
 author:
   # Biographic information
   avatar           : "Another Nice Picture.jpg"
-  name             : "Colin P. Adams"
+  name             : "Zachary Gooch"
   pronouns         : # example: "she/her"  
   bio              : "Economics Ph.D. Student"
   location         : "Tallahassee, Florida"
   employer         : "Florida State University"
   uri              : # URL
-  email            : "ca23a@fsu.edu"
+  email            : "zg23a@fsu.edu"
   cv               : "/CV.pdf"
 
   # Academic websites
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/colin-p-adams/"
+  linkedin         : "www.linkedin.com/in/zachary-r-gooch"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
